@@ -4,7 +4,7 @@
     "Max": 1000,
     "Increment": {
       "When": {
-        "UtilisationIsAbovePercent": 60
+        "UtilisationIsAbovePercent": 70
       },      
       "To": {
         "ConsumedPercent": 110
@@ -27,10 +27,10 @@
     "Max": 1500,
     "Increment": {
       "When": {
-        "UtilisationIsAbovePercent": 50
+        "UtilisationIsAbovePercent": 70
       },      
       "To": {
-        "ConsumedPercent": 200
+        "ConsumedPercent": 120
       }
     },
     "Decrement": {
