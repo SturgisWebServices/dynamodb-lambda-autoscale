@@ -7,7 +7,7 @@
         "UtilisationIsAbovePercent": 60
       },      
       "To": {
-        "ConsumedPercent": 150
+        "ConsumedPercent": 110
       }
     },
     "Decrement": {
