@@ -18,7 +18,7 @@
         "UnitAdjustmentGreaterThan": 5
       },
       "To": {
-        "ConsumedPercent": 75
+        "ConsumedPercent": 110
       }
     }
   },
