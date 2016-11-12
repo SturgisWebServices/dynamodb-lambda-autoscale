@@ -1,7 +1,7 @@
 {
   "ReadCapacity": {
-    "Min": 1,
-    "Max": 10,
+    "Min": 5,
+    "Max": 50,
     "Increment": {
       "When": {
         "UtilisationIsAbovePercent": 90
@@ -26,8 +26,8 @@
     }
   },
   "WriteCapacity": {
-    "Min": 1,
-    "Max": 10,
+    "Min": 5,
+    "Max": 100,
     "Increment": {
       "When": {
         "UtilisationIsAbovePercent": 90
